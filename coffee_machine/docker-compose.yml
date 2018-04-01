@@ -1,0 +1,8 @@
+version: '3'
+services:
+  teapot:
+    image: 'teapot-decoy'
+    ports:
+      - '80:80'
+    env_file:
+      - 'env'

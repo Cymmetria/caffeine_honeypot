@@ -1,0 +1,9 @@
+.idea
+
+*.pyc
+
+*.swp
+
+build-temp
+
+env

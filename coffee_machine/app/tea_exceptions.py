@@ -1,0 +1,2 @@
+class NoSuchThingy(RuntimeError):
+    pass
